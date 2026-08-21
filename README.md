@@ -17,3 +17,4 @@ Warm Up:-
 5. Loop in Loop
 6. Star Pattern
 7. Count Digit
+8. Palindrome
