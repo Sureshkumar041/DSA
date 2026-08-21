@@ -15,3 +15,5 @@ Warm Up:-
 
 4. Second Largest
 5. Loop in Loop
+6. Star Pattern
+7. Count Digit
