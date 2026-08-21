@@ -9,3 +9,8 @@ Warm Up:-
 1. Programming 101 - Js
 2. Function, if-else
 3. Loops 01
+3. Loop 02
+
+> 🗓 21-08-2026
+
+4. Second Largest
