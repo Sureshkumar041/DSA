@@ -18,3 +18,7 @@ Warm Up:-
 6. Star Pattern
 7. Count Digit
 8. Palindrome
+
+> 🗓 24-08-2026
+
+9. Reverse Integer
