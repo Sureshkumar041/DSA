@@ -4,7 +4,7 @@ In which Language - `Javascript`
 
 > 🗓 20-08-2026
 
-Warm Up:-
+#### Warm Up:-
 
 1. Programming 101 - Js
 2. Function, if-else
@@ -25,9 +25,19 @@ Warm Up:-
 
 > 🗓 26-08-2026
 
-Time & Space Complexity :-
+#### Time & Space Complexity :-
 
 1. Time Complexity
 
 ![ALT](./episode-wise/2%20Time%20&%20Space%20Complexity/assets/Big%20O%20Notation.jpeg)
+
+2. Space Complexity
+
+#### Arrays
+
+1. Remove Duplicates
+
+LeetCode Problem
+
+> 26. Remove Duplicates from Sorted Array
 
