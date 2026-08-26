@@ -22,3 +22,12 @@ Warm Up:-
 > 🗓 24-08-2026
 
 9. Reverse Integer
+
+> 🗓 26-08-2026
+
+Time & Space Complexity :-
+
+1. Time Complexity
+
+![ALT](./episode-wise/2%20Time%20&%20Space%20Complexity/assets/Big%20O%20Notation.jpeg)
+
