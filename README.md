@@ -51,6 +51,7 @@ LeetCode Problem
 5. Merge Sorted Arrays
 6. Move Zeros
 7. Max Consecutive Ones
+8. Missing Number
 
 LeetCode Problem
 
@@ -59,3 +60,4 @@ LeetCode Problem
 > 88. Merge Sorted Array
 > 283. Move Zeroes
 > 485. Max Consecutive Ones
+> 268. Missing Number
