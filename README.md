@@ -31,7 +31,7 @@ In which Language - `Javascript`
 
 ![ALT](./episode-wise/2%20Time%20&%20Space%20Complexity/assets/Big%20O%20Notation.jpeg)
 
-<img src="./episode-wise/2%20Time%20&%20Space%20Complexity/assets/Big%20O%20Notation.jpeg" alt="Big O Notation" width="300"/>
+<img src="./episode-wise/2%20Time%20&%20Space%20Complexity/assets/Big%20O%20Notation.jpeg" alt="Big O Notation" width="450"/>
 
 
 2. Space Complexity
