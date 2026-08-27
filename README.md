@@ -36,9 +36,17 @@ In which Language - `Javascript`
 #### Arrays
 
 1. Remove Duplicates
+2. Remove Element
 
 LeetCode Problem
 
 > 26. Remove Duplicates from Sorted Array
 > 27. Remove Element
 
+> 🗓 27-08-2026
+
+3. Reverse String
+
+LeetCode Problem
+
+> 344. Reverse String
