@@ -46,8 +46,11 @@ LeetCode Problem
 > 🗓 27-08-2026
 
 3. Reverse String
+4. Best Time to Buy and Sell Stocks
+5. Merge Sorted Arrays
 
 LeetCode Problem
 
 > 344. Reverse String
 > 121. Best Time to Buy and Sell Stocks
+> 88. Merge Sorted Array
