@@ -50,6 +50,7 @@ LeetCode Problem
 4. Best Time to Buy and Sell Stocks
 5. Merge Sorted Arrays
 6. Move Zeros
+7. Max Consecutive Ones
 
 LeetCode Problem
 
@@ -57,3 +58,4 @@ LeetCode Problem
 > 121. Best Time to Buy and Sell Stocks
 > 88. Merge Sorted Array
 > 283. Move Zeroes
+> 485. Max Consecutive Ones
