@@ -62,4 +62,11 @@ LeetCode Problem
 > 283. Move Zeroes
 > 485. Max Consecutive Ones
 > 268. Missing Number
+
+> 🗓 28-08-2026
+
+9. Single Number
+
+LeetCode Problem
+
 > 136. Single Number
