@@ -52,6 +52,7 @@ LeetCode Problem
 6. Move Zeros
 7. Max Consecutive Ones
 8. Missing Number
+9. Single Number
 
 LeetCode Problem
 
@@ -61,3 +62,4 @@ LeetCode Problem
 > 283. Move Zeroes
 > 485. Max Consecutive Ones
 > 268. Missing Number
+> 136. Single Number
