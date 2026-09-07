@@ -71,7 +71,12 @@ LeetCode Problem
 
 > 136. Single Number
 
+> 🗓 07-09-2026
+
 #### Recursion
 
 1. Recursion 101
+2. Sum of first N Numbers
+3. Sum of all numbers in Array
+
 
