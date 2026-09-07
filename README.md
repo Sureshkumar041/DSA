@@ -78,5 +78,7 @@ LeetCode Problem
 1. Recursion 101
 2. Sum of first N Numbers
 3. Sum of all numbers in Array
+4. Factorial of n
+
 
 
